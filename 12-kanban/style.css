@@ -230,7 +230,7 @@ section.kanban h2 {
 }
 
 .dropzone {
-  min-height: 12rem;
+  min-height: 33rem;
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
