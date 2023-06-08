@@ -28,7 +28,7 @@ body {
     display: flex;
     gap: 16px;
     align-items: center;
-    margin-bottom: 8px;
+    padding-bottom: 8px;
 }
 
 .avatar h3 {
@@ -62,7 +62,7 @@ label {
     flex-direction: column;
     justify-content: space-between;
     margin-top: 12px;
-    gap: 8px;
+    gap: 16px;
 }
 
 .default section {
